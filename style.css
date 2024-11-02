@@ -1746,6 +1746,8 @@ transition-timing-function: ease-out;
 }
 
 
-
+.footer-top .social-links a  i {
+    color: #fff;
+}
 
 
